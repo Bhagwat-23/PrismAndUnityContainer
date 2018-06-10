@@ -44,6 +44,7 @@ namespace Project.MainArea.ViewModels
 		{
 			popupNotification = new PopupNotification();
 			popupNotification.Message = "You Clicked Test View 1 Button. Thankyou!!!";
+			popupNotification.Title = "Test View 1 Popup";
 			Application.Current.Dispatcher.Invoke(() =>
 			{
 				this.PopupNotificationRequest.Raise(popupNotification, returned =>

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Bhagwat\source\repos\PrismAndUnityContainerSampleProject\Project.MainArea\obj\Debug\
+E:\GIT_Repo\PrismAndUnityContainerSampleProject\Project.MainArea\obj\Debug\
 Project.MainArea
 none
 false
@@ -13,8 +13,8 @@ DEBUG;TRACE
 3-1448654304
 
 15-525938915
-83-227786936
+85941408406
 Views\TestView1.xaml;Views\TestView2.xaml;Views\TestView3.xaml;
 
-False
+True
 

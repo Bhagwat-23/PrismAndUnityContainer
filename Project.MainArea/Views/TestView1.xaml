@@ -9,18 +9,17 @@
              mc:Ignorable="d" 
              Height="Auto" Width="Auto">
 
-  
-    <!--<i:Interaction.Triggers>
+    <i:Interaction.Triggers>
         <prism:InteractionRequestTrigger SourceObject="{Binding PopupNotificationRequest,Mode=OneWay}">
-            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="True">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="True" >
                 <prism:PopupWindowAction.WindowContent>
                     <view:CustomPopupView/>
                 </prism:PopupWindowAction.WindowContent>
             </prism:PopupWindowAction>
         </prism:InteractionRequestTrigger>
-    </i:Interaction.Triggers>-->
-       
-       
+    </i:Interaction.Triggers>
+   
+    
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
